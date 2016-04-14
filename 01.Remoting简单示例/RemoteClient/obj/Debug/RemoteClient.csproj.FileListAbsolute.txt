@@ -1,0 +1,11 @@
+D:\git\remoting_demo\01.Remoting简单示例\RemoteClient\bin\Debug\RemoteClient.exe.config
+D:\git\remoting_demo\01.Remoting简单示例\RemoteClient\bin\Debug\RemoteClient.exe
+D:\git\remoting_demo\01.Remoting简单示例\RemoteClient\bin\Debug\RemoteClient.pdb
+D:\git\remoting_demo\01.Remoting简单示例\RemoteClient\bin\Debug\RemoteObject.dll
+D:\git\remoting_demo\01.Remoting简单示例\RemoteClient\bin\Debug\RemoteObject.pdb
+D:\git\remoting_demo\01.Remoting简单示例\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+D:\git\remoting_demo\01.Remoting简单示例\RemoteClient\obj\Debug\RemoteClient.exe
+D:\git\remoting_demo\01.Remoting简单示例\RemoteClient\obj\Debug\RemoteClient.pdb
+D:\git\remoting_demo\01.Remoting简单示例\bin\RemoteClient.exe.config
+D:\git\remoting_demo\01.Remoting简单示例\bin\RemoteClient.exe
+D:\git\remoting_demo\01.Remoting简单示例\bin\RemoteClient.pdb

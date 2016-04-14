@@ -1,0 +1,7 @@
+D:\git\remoting_demo\01.Remoting简单示例\RemoteObject\bin\Debug\RemoteObject.dll
+D:\git\remoting_demo\01.Remoting简单示例\RemoteObject\bin\Debug\RemoteObject.pdb
+D:\git\remoting_demo\01.Remoting简单示例\RemoteObject\obj\Debug\RemoteObject.csprojResolveAssemblyReference.cache
+D:\git\remoting_demo\01.Remoting简单示例\RemoteObject\obj\Debug\RemoteObject.dll
+D:\git\remoting_demo\01.Remoting简单示例\RemoteObject\obj\Debug\RemoteObject.pdb
+D:\git\remoting_demo\01.Remoting简单示例\bin\RemoteObject.dll
+D:\git\remoting_demo\01.Remoting简单示例\bin\RemoteObject.pdb
